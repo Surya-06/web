@@ -1,0 +1,10 @@
+.borderText{
+    border-top-style: none;
+    border-right-style: solid;
+    border-bottom-style: none;
+    border-left-style: solid;
+    border-color : teal;
+    border-width: 10px;
+}
+
+

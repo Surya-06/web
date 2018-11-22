@@ -10,7 +10,7 @@ class NavBar extends Component{
         return(
             <div>
             <div className="navbar-fixed transparent">
-            <nav className="transparent">
+            <nav className='transparent'>
                 <div className="nav-wrapper">
                     <div className="row">
                         <div className="col s12 m6">

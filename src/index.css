@@ -6,10 +6,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background : 
 
-  height : 3000px;
 }
 
+::-webkit-scrollbar{
+  width : 0px;
+  background : transparent ;
+}
 
 
 code {
