@@ -1,4 +1,4 @@
-import React , {Component} from 'react';
+﻿import React , {Component} from 'react';
 import '../stylesheets/materialize.css';
 import '../stylesheets/body.css';
 
@@ -103,7 +103,7 @@ class Body extends Component{
                                 }
                             </div>
                             <div className="card-action center-align">
-                                <a onClick={this.changeToAcheivements} className='flow-text'>Acheivements</a>
+                                <a onClick={this.changeToAcheivements} className='flow-text'>About Me</a>
                                 <a onClick={this.changeToProjects} className='flow-text'>Projects</a>
                                 <a onClick={this.changeToContacts} className='flow-text'>Contact</a>
                                 <a onClick={this.changeToHome} className='flow-text'>Home</a>
